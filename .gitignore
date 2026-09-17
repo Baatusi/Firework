@@ -1,0 +1,36 @@
+# Visual Studio local state
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.aps
+ipch/
+*.VC.db
+*.VC.VC.opendb
+
+# Build output (at any project level)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM64/
+[Bb]uild/
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.log
+*.exe
+*.dll
+
+# macOS
+.DS_Store
+._*
+
+# Test output and local source delivery
+[Bb]in/
+[Oo]bj/
+/新版/
